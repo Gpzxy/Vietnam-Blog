@@ -1,0 +1,28 @@
+@font-face {
+
+	font-family: NotoSerif;
+	src: url(Fonts/NotoSerif-Regular.ttf);
+
+}
+
+h3 {
+
+	font-family: NotoSerif;
+	font-size: 30px;
+}
+
+
+p {
+	font-family: NotoSerif;
+}
+
+div {
+
+	font-family: NotoSerif;
+}
+
+body {
+
+	margin-left: 200px;
+	margin-right: 200px;
+}
