@@ -26,3 +26,39 @@ body {
 	margin-left: 200px;
 	margin-right: 200px;
 }
+
+nav.navbar {
+
+	font-size: 25px;
+	font-family: sofia;
+}
+
+@font-face {
+
+	font-family: sofia;
+	src: url(Fonts/Sofia-Regular.ttf);
+
+}
+
+p.footer {
+
+	font-family: sofia;
+	font-size: 25px;
+}
+
+img.biografi {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+li {
+	text-align: center;
+	list-style: none;
+	background-color: white;
+}
+
+h3.biografi {
+
+	font-family: sofia;
+}
